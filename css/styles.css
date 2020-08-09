@@ -1,5 +1,6 @@
 * {
 	text-align: center;
+	background: url(./YU\ .jpg);
 }
 
 body {
@@ -36,7 +37,7 @@ body {
 	margin: 2% auto;
 	border: 2px solid #0485ff;
 	background: #0485ff;
-	color: white;
+	color: blue;
 	transition: 0.15s;
 }
 
